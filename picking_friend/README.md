@@ -16,5 +16,5 @@
 > you need to walk minimum distance.
 
 ### my solutions:
-strat.py -> obvious but really bad solution
-strat2.py -> a bit more intuitive, still not the best
+- strat.py -> obvious but really bad solution
+- strat2.py -> a bit more intuitive, still not the best
